@@ -1,0 +1,9 @@
+{
+	"name": "salesadfmaya",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e430e003-825a-4094-bec5-6093dcfd8470",
+		"tenantId": "18bb4a2f-3656-4408-ba29-8e020b096e78"
+	}
+}
