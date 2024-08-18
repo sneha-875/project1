@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "salesadfmaya"
+		},
+		"LS_ADLS_accountKey": {
+			"value": ""
+		},
+		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://valutmayaa.vault.azure.net/"
+		},
+		"LS_ADLS_properties_typeProperties_url": {
+			"value": "https://mayastorageaccco.dfs.core.windows.net/"
+		},
+		"trigger1_properties_typeProperties_scope": {
+			"value": "/subscriptions/fe99f6bb-9115-4d42-a813-a4d0f6c388bf/resourceGroups/bigdatapropject/providers/Microsoft.Storage/storageAccounts/mayastorageaccco"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
